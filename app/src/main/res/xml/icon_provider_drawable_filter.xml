@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="weather_cloudy_day" value="weather_cloudy" />
+    <item name="weather_cloudy_night" value="weather_cloudy" />
+
+    <item name="weather_rain_day" value="weather_rain" />
+    <item name="weather_rain_night" value="weather_rain" />
+
+    <item name="weather_snow_day" value="weather_snow" />
+    <item name="weather_snow_night" value="weather_snow" />
+
+    <item name="weather_wind_day" value="weather_wind" />
+    <item name="weather_wind_night" value="weather_wind" />
+
+    <item name="weather_fog_day" value="weather_fog_haze" />
+    <item name="weather_fog_night" value="weather_fog_haze" />
+    <item name="weather_haze_day" value="weather_fog_haze" />
+    <item name="weather_haze_night" value="weather_fog_haze" />
+
+    <item name="weather_sleet_day" value="weather_sleet_hail" />
+    <item name="weather_sleet_night" value="weather_sleet_hail" />
+    <item name="weather_hail_day" value="weather_sleet_hail" />
+    <item name="weather_hail_night" value="weather_sleet_hail" />
+
+    <item name="weather_thunder_day" value="weather_thunderstorm" />
+    <item name="weather_thunder_night" value="weather_thunderstorm" />
+
+    <item name="weather_thunderstorm_day" value="weather_thunderstorm" />
+    <item name="weather_thunderstorm_night" value="weather_thunderstorm" />
+
+</resources>
